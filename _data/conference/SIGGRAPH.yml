@@ -1,0 +1,18 @@
+abbr-name: SIGGRAPH
+full-name: International Conference and Exhibition on Computer Graphics and Interactive Techniques
+years:
+-
+  year: 2024
+  date: "2024-07-28"
+  url : https://s2024.siggraph.org/
+  info: Denver, USA
+  submissions:
+  -
+    type: Technical Paper
+    date: "2024-01-23"
+  -
+    type: VR Theater (Demo)
+    date: "2024-02-21"
+  -
+    type: Poster
+    date: "2024-04-25"

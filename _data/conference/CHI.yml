@@ -1,0 +1,29 @@
+abbr-name: CHI
+full-name: ACM CHI Conference on Human Factors in Computing Systems
+description: >-
+  The most famous HCI conference in the world.
+years:
+-
+  year: 2024
+  date: "2024-05-11"
+  url : https://chi2024.acm.org/
+  info: Hawaii, USA
+  submissions:
+  -
+    type: Paper
+    date: "2023-09-17"
+  -
+    type: Doctoral Consortium
+    date: "2024-01-25"
+  -
+    type: Workshop/Symposia
+    date: "2023-10-12"
+  -
+    type: Late Breaking Work (Poster)
+    date: "2024-01-25"
+  -
+    type: Interactivity/Demos
+    date: "2024-01-17"
+  -
+    type: Student Research Competition
+    date: "2024-01-18"

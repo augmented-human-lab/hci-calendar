@@ -1,0 +1,21 @@
+abbr-name: CUI
+full-name: Conversational User Interfaces
+years:
+-
+  year: 2024
+  date: "2024-07-01"
+  url : https://cui.acm.org/2024/
+  info: Luxembourg City, Luxembourg
+  submissions:
+  -
+    type: Paper
+    date: "2024-02-15"
+  -
+    type: Provocations
+    date: "2024-04-11"
+  -
+    type: Posters
+    date: "2024-04-11"
+  -
+    type: Demos
+    date: "2024-04-11"

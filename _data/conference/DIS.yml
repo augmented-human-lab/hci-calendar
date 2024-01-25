@@ -1,0 +1,18 @@
+abbr-name: DIS
+full-name: ACM SIGCHI Conference on Designing Interactive Systems
+years:
+-
+  year: 2024
+  date: "2024-06-23"
+  url : https://dis.acm.org/2024/
+  info: Copenhagen-DK
+  submissions:
+  -
+    type: Paper
+    date: "2024-02-01"
+  -
+    type: PWiP (Poster)
+    date: "2024-03-14"
+  -
+    type: Demo
+    date: "2024-03-11"

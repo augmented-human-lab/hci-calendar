@@ -1,0 +1,13 @@
+abbr-name: ISS
+full-name: ACM International Conference on Interactive Surfaces and Spaces
+years:
+-
+  year: 2024
+  date: "2024-10-27"
+  url : "https://iss2024.acm.org/"
+  info: "Seattle USA"
+  submissions:
+  -
+    type: Papers and Notes
+    date: "2024-02-22"
+  

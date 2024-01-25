@@ -1,0 +1,18 @@
+abbr-name: Eurohaptics
+full-name: Eurohaptics Conference
+years:
+-
+  year: 2024
+  date: "2024-06-30"
+  url : https://eurohaptics.org/ehc2024/
+  info: Lille, France 
+  submissions:
+  -
+    type: Paper
+    date: "2024-02-02"
+  -
+    type: WIP (Poster)
+    date: "2024-03-12"
+  -
+    type: Demo
+    date: "2024-04-12"

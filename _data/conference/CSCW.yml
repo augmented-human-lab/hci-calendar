@@ -1,0 +1,18 @@
+abbr-name: CSCW
+full-name: ACM Conference on Computer-Supported Cooperative Work and Social Computing
+years:
+-
+  year: 2024
+  date: "2024-11-09"
+  url : https://cscw.acm.org/2024/
+  info: San José, Costa Rica
+  submissions:
+  -
+    type: Paper
+    date: "2024-01-16"
+  -
+    type: Poster
+    date: "2024-05-23"
+  -
+    type: Demo
+    date: "2024-05-23"

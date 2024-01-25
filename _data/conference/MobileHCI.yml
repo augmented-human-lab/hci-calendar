@@ -1,0 +1,18 @@
+abbr-name: MobileHCI
+full-name: International Conference on Human-Computer Interaction with Mobile Devices and Services
+years:
+-
+  year: 2024
+  date: "2024-09-30"
+  url : https://mobilehci.acm.org/2024/
+  info: Melbourne, Australia
+  submissions:
+  -
+    type: Paper
+    date: "2024-02-14"
+  -
+    type: Poster (LBW)
+    date: "2024-05-24"
+  -
+    type: Demo
+    date: "2024-05-24"

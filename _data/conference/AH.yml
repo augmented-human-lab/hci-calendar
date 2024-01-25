@@ -1,0 +1,18 @@
+abbr-name: AH
+full-name: Augmented Human International Conference
+years:
+-
+  year: 2024
+  date: "2024-04-04"
+  url : https://augmented-humans.org/
+  info: Melbourne, Australia
+  submissions:
+  -
+    type: Paper
+    date: "2024-01-16"
+  -
+    type: Poster
+    date: "2024-02-12"
+  -
+    type: Demo
+    date: "2024-02-12"

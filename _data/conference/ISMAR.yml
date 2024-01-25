@@ -1,0 +1,18 @@
+abbr-name: ISMAR
+full-name: IEEE International Symposium on Mixed and Augmented Reality
+years:
+-
+  year: 2024
+  date: "2024-10-16"
+  url : https://www.ismar.net/
+  info: Greater Seattle Area, United States
+  submissions:
+  -
+    type: Paper
+    date: "TBD"
+  -
+    type: Poster
+    date: "TBD"
+  -
+    type: Demo
+    date: "TBD"

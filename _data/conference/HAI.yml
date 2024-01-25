@@ -1,0 +1,15 @@
+abbr-name: HAI
+full-name: International Conference on Human-Agent Interaction
+years:
+-
+  year: 2024
+  date: "2024-10-06"
+  url : https://hai-conference.net/hai2024/
+  info: Swansea University, UK
+  submissions:
+  -
+    type: Paper
+    date: "TBD"
+  -
+    type: Poster
+    date: "TBD"

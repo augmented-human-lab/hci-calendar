@@ -1,0 +1,18 @@
+abbr-name: VRST
+full-name: ACM Symposium on Virtual Reality Software and Technology
+years:
+-
+  year: 2024
+  date: "2024-10-09"
+  url : https://vrst.acm.org
+  info: Trier, Germany
+  submissions:
+  -
+    type: Paper
+    date: "TBD"
+  -
+    type: Poster
+    date: "TBD"
+  -
+    type: Demo
+    date: "TBD"

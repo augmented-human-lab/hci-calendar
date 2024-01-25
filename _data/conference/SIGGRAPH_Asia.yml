@@ -1,0 +1,18 @@
+abbr-name: SIGGRAPH Asia
+full-name: ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia
+years:
+-
+  year: 2024
+  date: "2024-12-03"
+  url : https://asia.siggraph.org/2023/about-the-event/siggraph-asia-2024/
+  info: Tokyo, Japan
+  submissions:
+  -
+    type: Technical Paper
+    date: "TBD"
+  -
+    type: E-Tech (Demo)
+    date: "TBD"
+  -
+    type: Technical Brief and Poster
+    date: "TBD"

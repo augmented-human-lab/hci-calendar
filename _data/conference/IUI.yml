@@ -1,0 +1,18 @@
+abbr-name: IUI
+full-name: ACM International Conference on Intelligent User Interfaces
+years:
+-
+  year: 2024
+  date: "2024-03-18"
+  url : https://iui.acm.org/2024/
+  info: Cagliari, Italy
+  submissions:
+  -
+    type: Paper
+    date: "2023-10-02"
+  -
+    type: Poster
+    date: "2024-01-09"
+  -
+    type: Demo
+    date: "2024-01-09"

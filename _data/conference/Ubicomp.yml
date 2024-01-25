@@ -1,0 +1,21 @@
+abbr-name: Ubicomp
+full-name: IFIP TC.13 International Conference on Human-Computer Interaction
+years:
+-
+  year: 2024
+  date: "2024-10-05"
+  url : https://www.ubicomp.org/ubicomp-iswc-2024/
+  info: Melbourne, Australia
+  submissions:
+  -
+    type: Full Paper
+    date: "2019-08-15"
+  -
+    type: Full Paper
+    date: "TBD"
+  -
+    type: Full Paper
+    date: "TBD"
+  -
+    type: Full Paper
+    date: "TBD"

@@ -1,0 +1,18 @@
+abbr-name: ACMMM
+full-name: ACM International Conference on Multimedia
+years:
+- 
+  year: 2024
+  date: "2024-10-28"
+  url: https://2024.acmmm.org/
+  info: --% - Melbourne, Australia
+  submissions:
+  -
+    type: Paper
+    date: "2024-04-08"
+    type: Technical Demo
+    date: "2024-06-03"
+
+
+
+

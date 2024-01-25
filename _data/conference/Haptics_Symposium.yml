@@ -1,0 +1,19 @@
+abbr-name: Haptics Symposium
+full-name: IEEE Haptics Symposium
+note: Joint with WHC in odd-numbered years
+years:
+-
+  year: 2024
+  date: "2024-04-07"
+  url : https://2024.hapticssymposium.org/
+  info: LongBeach, CA, USA
+  submissions:
+  -
+    type: Paper
+    date: "2023-10-23"
+  -
+    type: Poster
+    date: "2024-03-18"
+  -
+    type: Demo
+    date: "2024-01-31"

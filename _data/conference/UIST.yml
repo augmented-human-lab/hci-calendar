@@ -1,0 +1,18 @@
+abbr-name: UIST
+full-name: ACM Symposium on User Interface Software and Technology
+years:
+-
+  year: 2024
+  date: "2024-10-13"
+  url : https://uist.acm.org/2024/
+  info: Pittsburgh, Pennsylvania, USA
+  submissions:
+  -
+    type: Paper
+    date: "2024-03-27"
+  -
+    type: Poster
+    date: "TBD"
+  -
+    type: Demo
+    date: "TBD"
