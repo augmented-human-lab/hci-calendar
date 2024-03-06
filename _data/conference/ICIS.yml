@@ -1,0 +1,15 @@
+abbr-name: ICIS
+full-name: International Conference on Information Systems
+years:
+-
+  year: 2024
+  date: "2024-12-15"
+  url : https://icis2024.aisconferences.org/
+  info: Thailand
+  submissions:
+  -
+    type: Paper
+    date: "2024-05-01"
+  -
+    type: Poster
+    date: "TBD"
