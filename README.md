@@ -1,6 +1,6 @@
 # HCI Calendar
 
-[HCI Calendar](https://hci-calendar.github.io) helps you to find the timely conference for your research.
+[HCI Calendar](https://augmented-human-lab.github.io/hci-calendar/) helps you to find the timely conference for your research.
 
 This website is written in Jekyll and hosted on Github Pages.
 
